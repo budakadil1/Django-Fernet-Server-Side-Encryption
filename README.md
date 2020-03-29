@@ -1,5 +1,5 @@
 # Django-Fernet-Server-Side-Encryption
-Django Fernet encryption/decryption
+## Django Fernet encryption/decryption
 
 * This Project uses Python's cryptography.fernet Fernet module to encrypt and decrypt inputs.
 
